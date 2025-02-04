@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/memberrxyz/foundation/blob/main/apps/www/public/images/logo-dark.png" alt="memberr repo" width="300"/>
+<img src="https://github.com/memberrxyz/foundation/blob/development/apps/www/public/images/memberr-logo-icon-round.svg" alt="alt text" width="100"/>
 </p>
 
 # User Feedback
